@@ -1,0 +1,11 @@
+{						
+  "Details": {				
+    "id": "123",					
+    "father": "ravi",						
+    "class": 7,						
+    "address": {					
+      "area": "main road",					
+      "location": "banglore"
+    }		
+  }							
+}								
